@@ -1,0 +1,1 @@
+# Flutter-Clean-05A-FlutterGuys-Bloc-Pattern-Without-Package-App
